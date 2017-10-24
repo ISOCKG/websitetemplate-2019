@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+
+#. *** Frontend ***
+
+msgid "View more"
+msgstr "Показать больше"
+
+msgid "The latest news"
+msgstr "Последние новости"
+
+msgid "The latest news"
+msgstr "Последние новости"
+
+msgid "General links"
+msgstr "Основные ссылки"
+
+msgid "Latest posts"
+msgstr "Последние посты"
+
+msgid "Search for..."
+msgstr "Искать для..."
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "ERROR 404! NOTHING NOT FOUND !!!"
+msgstr "ОШИБКА 404! НИЧЕГО НЕ НАЙДЕНА !!!"
+
+msgid "Founded items"
+msgstr "Найденные элементы"
+
+
+#. *** Backend ***
+
+msgid "Company address"
+msgstr "Адрес компании"
+
+msgid "Company email"
+msgstr "Email компании"
+
+msgid "Company phone"
+msgstr "Телефон компании"
+
+msgid "Copyright text"
+msgstr "Текст авторского права"
+
+msgid "Company information"
+msgstr "Информация о компании"
+
+msgid "Social links"
+msgstr "Ссылки на социальные сети"
+
+msgid "Slider shortcode"
+msgstr "Шорткод для слайдера"
+
+msgid "Enter slider shortcode"
+msgstr "Введите шорткод для слайдера"
+
+msgid "Facebook link"
+msgstr "Ссылка на facebook"
+
+msgid "Github link"
+msgstr "Ссылка на github"
+
+msgid "Twitter link"
+msgstr "Ссылка на twitter"
+
+msgid "Instagram link"
+msgstr "Ссылка на instagram"
+
+msgid "Theme settings was saved"
+msgstr "Настройки темы были сохранены"
+
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+msgid "Theme settings"
+msgstr "Настройки темы"

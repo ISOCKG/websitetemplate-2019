@@ -1,0 +1,1 @@
+<h2 class="post_header"><?php esc_html_e('ERROR 404! NOTHING NOT FOUND !!!', 'isoc'); ?></h2>
