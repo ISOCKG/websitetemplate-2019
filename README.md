@@ -1,0 +1,2 @@
+# ISOC-KG
+Wordpress theme
